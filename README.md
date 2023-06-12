@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishekmishra" alt="Abhishekmishra" /></a> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/umair_ali_55" target="blank"><img src="https://img.shields.io/twitter/follow/umair_ali_55?logo=twitter&style=for-the-badge" alt="umair_ali_55" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/umair_ali_55" target="blank"><img src="https://img.shields.io/twitter/follow/umair_ali_55?logo=twitter&style=for-the-badge" alt="umair_ali_55" /></a> </p>
 
 - 🌱 I’m currently learning **FullStack Development**
 
