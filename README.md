@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishekmishrz" alt="Abhishekmishrz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/umair_ali_55" target="blank"><img src="https://img.shields.io/twitter/follow/umair_ali_55?logo=twitter&style=for-the-badge" alt="umair_ali_55" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Abhishekmishrz" target="blank"><img src="https://img.shields.io/twitter/follow/Abhishekmishrz?logo=twitter&style=for-the-badge" alt="Abhishekmishrz" /></a> </p>
 
 - 🌱 I’m currently learning **FullStack Development**
 
@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/umair_ali_55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umair_ali_55" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umair-ali-376b36151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair-ali-376b36151" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ua02506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ua02506" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ua55359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ua55359" height="30" width="40" /></a>
+<a href="https://twitter.com/Abhishekmishrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishekmishraz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishekmishraz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishekmishraz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Abhishekmishraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhishekmishraz" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
